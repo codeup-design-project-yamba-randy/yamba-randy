@@ -1,1 +1,1 @@
-# yamba-randy
+# yamba-randy codeup design project
